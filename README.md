@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Featured project
+
+- [Scientific and Programmer Calculator](https://github.com/1jehuang/jcode/pull/2090) - Scientific and programmer calculator for Jcode, with separate modes, a white/dark theme, and searchable calculation history.
+- [Jcode fork](https://github.com/Sushant215-cpu/jcode)
